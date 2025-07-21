@@ -1,0 +1,8 @@
+praw
+pandas
+nltk
+scikit-learn
+textblob
+tqdm
+beautifulsoup4
+lxml
